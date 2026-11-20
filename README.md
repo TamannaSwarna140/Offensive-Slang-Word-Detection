@@ -64,6 +64,6 @@ Errors cluster in English insults, context-dependent phrases and neutral Bengali
 
 ## Project history
 This project began as a team course project in 2023 (CSE332, Daffodil International University). The original PySpark version
-and its report are kept unchanged in `notebooks/original_2023/`. In 2026, with more experience in model evaluation, I found that the
+and its report are kept unchanged in `Offensive-Slang-Word-Detection/Offensive-Slang-Word-Detection.ipynb/`. In 2026, with more experience in model evaluation, I found that the
 dataset contains only 990 unique strings repeated across 3,880 rows, so a random split placed the same words in both the training and
-test sets and inflated the reported accuracy (about 98%). This version corrects the evaluation, and the corrected results are reported above.
+test sets and inflated the reported accuracy (about 98%). (Offensive-Slang-Word-Detection_V2.ipynb) This version corrects the evaluation, and the corrected results are reported above.
